@@ -15,4 +15,7 @@ This project focuses on predicting **job placement success** based on candidate 
 This project offers a **data-driven approach to recruitment and talent acquisition** through predictive modeling and visualization. 
 
 
+![Dashboard ](https://github.com/user-attachments/assets/3fd0bbe4-9022-4afb-8b62-f05a2174fc5e)
+
+
 
